@@ -1,6 +1,8 @@
 # React Native 串接 RapidAPI 媒合求職及公司雙方之平台
-![image](https://github.com/ChihTsungLu/react-native/blob/main/rnhome.png)
-![image](https://github.com/ChihTsungLu/react-native/blob/main/rn.png)
+<img src="https://github.com/ChihTsungLu/react-native/blob/main/rnhome.png" width="300" height="200" alt="Home Screen Image"/>
+<img src="https://github.com/ChihTsungLu/react-native/blob/main/rn.png" width="300" height="200" alt="RN Screen Image"/>
+
+# Tech Stack
 # Tech Stack
 開發使用 React Native 框架的跨平台移動應用程式，專注於簡化工作搜尋流程。
 串接 RapidAPI 以存取富有內容的工作資訊，包括職缺、公司詳細資訊和工資。
