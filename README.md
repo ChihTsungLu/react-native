@@ -1,6 +1,6 @@
 # React Native 串接 RapidAPI 媒合求職及公司雙方之平台
-<img src="https://github.com/ChihTsungLu/react-native/blob/main/rnhome.png" width="300" height="200" alt="Home Screen Image"/>
-<img src="https://github.com/ChihTsungLu/react-native/blob/main/rn.png" width="300" height="200" alt="RN Screen Image"/>
+<img src="https://github.com/ChihTsungLu/react-native/blob/main/rnhome.png" width="600" height="400" alt="Home Screen Image"/>
+<img src="https://github.com/ChihTsungLu/react-native/blob/main/rn.png" width="600" height="400" alt="RN Screen Image"/>
 
 # Tech Stack
 # Tech Stack
